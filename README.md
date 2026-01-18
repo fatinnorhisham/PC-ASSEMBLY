@@ -1,2 +1,11 @@
 # PC-ASSEMBLY
-I 
+## PC Assembly Lab Reflection
+
+On 12 November 2025, I participated in a PC assembly lab where I learned about the internal structure of a personal computer and the correct procedures for assembling and disassembling its components under the guidance of an instructor.
+
+Working in a group of five, we began by disassembling the PC. This involved opening the computer case and carefully removing the cables connected to the motherboard, power supply unit (PSU), RAM, hard disk, and CPU fan using a screwdriver. After completing the disassembly process, we reassembled all the components step by step.
+
+Once the assembly was finished, the PC was powered on to test its functionality. The system operated successfully, confirming that the assembly had been done correctly. At the end of the lab session, a quiz was conducted to evaluate our understanding of the PC assembly steps.
+
+This lab session enhanced my knowledge of computer hardware by helping me identify various PC components and understand how upgrades or modifications, such as adding RAM or storage, can be performed based on user requirements.
+
